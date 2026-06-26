@@ -15,26 +15,26 @@ This project demonstrates how to analyze sales data using Power BI, DAX (Data An
 
 ## 🎯 Project Overview
 
-* **Business Problem:**
+**Business Problem:**
   Businesses generate large volumes of sales data every day, making it difficult to identify trends and measure performance using raw data alone. Without proper analysis, organizations may struggle to answer important business questions such as:
 
-* Which products and categories generate the highest sales and profit?
-* Which regions or cities perform the best?
-* How are sales changing over time?
-* What are the key business performance indicators?
-* Which areas require improvement to increase revenue and profitability?
+  * Which products and categories generate the highest sales and profit?
+  * Which regions or cities perform the best?
+  * How are sales changing over time?
+  * What are the key business performance indicators?
+  * Which areas require improvement to increase revenue and profitability?
 
 This project addresses these challenges by using DAX calculations and Power BI visualizations to transform raw sales data into actionable insights through an interactive dashboard.
   
-* **Objective:**
+**Objective:**
   The primary objectives of this project are to:
 
-* Analyze sales data using DAX measures and calculations.
-* Build an interactive Power BI dashboard for business reporting.
-* Track key performance indicators (KPIs) such as Total Sales, Total Profit, Average Sales, and Order Count.
-* Identify top-performing products, categories, and regions.
-* Monitor sales trends over time using Year-to-Date (YTD) and time-based analysis.
-* Enable data-driven decision-making through clear and interactive visualizations
+  * Analyze sales data using DAX measures and calculations.
+  * Build an interactive Power BI dashboard for business reporting.
+  * Track key performance indicators (KPIs) such as Total Sales, Total Profit, Average Sales, and Order Count.
+  * Identify top-performing products, categories, and regions.
+  * Monitor sales trends over time using Year-to-Date (YTD) and time-based analysis.
+  * Enable data-driven decision-making through clear and interactive visualizations
 .
 * **Target Audience:**
   Identify the primary users of Executive Leadership, Customers and Sales Operations.
